@@ -34,7 +34,13 @@ const About = () => {
                       in Coimbatore, Tamil Nadu.
                 <br />
                 <br />
-                        I am proficient in various programming languages such as &nbsp;
+                As a second-year computer science and engineering student, my experience with technology is multifaceted and continuously evolving.
+
+My experience as a class representative has equipped me with valuable leadership skills, including effective communication, teamwork, problem-solving, and decision-making. I am confident in my ability to lead projects and teams successfully, and I am excited about the opportunity to apply and further develop these skills as a web developer.
+I leveraged my leadership position to empower team members and encourage their active participation and contribution. I listened to their ideas and feedback, valued their input, and created a supportive environment where everyone felt heard and valued.
+
+I am excited about the opportunity to lead as a web developer to share my enthusiasm for technology and innovation.
+&nbsp;
                   <b className="purple">
                     {" "}
                     C, C++, Java, Python, HTML, CSS, PHP, and JavaScript.{" "}
