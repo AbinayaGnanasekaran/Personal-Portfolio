@@ -54,10 +54,7 @@ function App() {
               path="educationjourney"
               element={<EducationJourney />}
             ></Route>
-            <Route
-              path="experiencejourney"
-              element={<ExperienceJourney />}
-            ></Route>
+            
             <Route path="ranking" element={<Ranking />}></Route>
             <Route path="socialmedia" element={<SocialMedia />}></Route>
             <Route path="toolkit" element={<Toolkit />}></Route>
@@ -65,7 +62,7 @@ function App() {
           <Route path="/projectspage" element={<ProjectPage />} />
           <Route path="/certificatepage" element={<CertificatePage />} />
           <Route path="/resume" element={<Resume />} />
-          <Route path="/blogs" element={<ComingSoon />} />
+          
           <Route path="*" element={<Notfound />} />
         </Routes>
         <Footer />

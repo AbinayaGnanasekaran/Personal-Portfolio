@@ -23,7 +23,7 @@ export default function AboutmeContainer() {
                                 <Nav.Link as={Link} to="/" eventKey="link-1" style={{ fontSize: "17px",fontWeight:700 }}>About</Nav.Link>
                             </Nav.Item>
                             <Nav.Item>
-                                <Nav.Link as={Link} to="technicalskill" eventKey="link-2" style={{ fontSize: "17px",fontWeight:700 }}>Skills</Nav.Link>
+                                <Nav.Link as={Link} to="technicalskill" eventKey="link-2" style={{ fontSize: "17px",fontWeight:700 }}>Tools</Nav.Link>
                             </Nav.Item>
                             <Nav.Item>
                                 <Nav.Link as={Link} to="educationjourney" eventKey="link-3" style={{ fontSize: "17px",fontWeight:700 }}>Journey</Nav.Link>
@@ -33,11 +33,7 @@ export default function AboutmeContainer() {
                                 Ranking
                                 </Nav.Link>
                             </Nav.Item>
-                            <Nav.Item>
-                                <Nav.Link as={Link} to="socialmedia" eventKey="link-5" style={{ fontSize: "17px",fontWeight:700 }}>
-                                Social Media
-                                </Nav.Link>
-                            </Nav.Item>
+                            
                             </Nav>
                             <div>
                                 <Outlet />

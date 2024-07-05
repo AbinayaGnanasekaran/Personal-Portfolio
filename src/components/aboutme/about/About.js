@@ -28,13 +28,20 @@ const About = () => {
           <Col md={7}>
             <Fade duration={3000}>
               <p className="home-about-body">
-                My name is <b className="purple">MD Mafujul Hasan </b> 
+                My name is <b className="purple">Abinaya G</b> 
                   and I am a <b className="purple">Computer Science and Engineering </b> 
-                    student at <b className="purple">Sonargaon University </b>
-                      in Dhaka, Bangladesh.
+                    student at <b className="purple">Sri Eshwar College of Engineering </b>
+                      in Coimbatore, Tamil Nadu.
                 <br />
                 <br />
                         I am proficient in various programming languages such as &nbsp;
+                  <b className="purple">
+                    {" "}
+                    C, C++, Java, Python, HTML, CSS, PHP, and JavaScript.{" "}
+                  </b>
+                <br />
+                <br />
+                I am proficient in various programming languages such as &nbsp;
                   <b className="purple">
                     {" "}
                     C, C++, Java, Python, HTML, CSS, PHP, and JavaScript.{" "}
